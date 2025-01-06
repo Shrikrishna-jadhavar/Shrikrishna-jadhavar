@@ -1,6 +1,7 @@
 👋 Hi, I'm ShriKrishna Laxmanrao Jadhavar
 
 🚀 About Me
+
 I am a Data Analyst and Data Scientist with a passion for transforming raw data into actionable insights. With a strong foundation in data analysis, machine learning, 
 and visualization, I specialize in solving real-world problems using advanced analytics and intuitive data storytelling.
 I have a background in software development, particularly Android applications, and have successfully transitioned into the exciting world of data science. 
