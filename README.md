@@ -33,20 +33,26 @@ Development Tools
 📂 Projects
 1. Liver Disease Classification Using Machine Learning
 
-    Built a machine learning model to classify liver diseases with 88.62% accuracy.
+    Built a machine learning model to classify liver diseases with 92.68% accuracy.
+   
     Tools: Python, Scikit-learn, Streamlit
+
     Key Impact: Assisted healthcare professionals with early diagnosis.
 
-2. Resume Classification Using NLP
+3. Resume Classification Using NLP
 
     Developed and deployed a text classification model for automated resume sorting.
+   
     Tools: Python, TF-IDF, Scikit-learn, Streamlit
+
     Key Impact: Enhanced recruitment efficiency and reduced manual effort.
 
-3. My Security (Android Application)
+5. My Security (Android Application)
 
     Designed and developed an Android app to manage security guard data, shifts, and payments.
+   
     Tools: Java, PHP, MySQL
+
     Key Impact: Streamlined administrative tasks and improved scalability.
 
 🌱 Currently Learning
