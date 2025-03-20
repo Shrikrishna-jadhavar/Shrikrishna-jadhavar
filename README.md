@@ -20,7 +20,7 @@ Data Science & Machine Learning
 
 Data Visualization
 
-    Matplotlib | Seaborn | Tableau
+    Matplotlib | Seaborn | Tableau | PowerBI
 
 Database Management
 
